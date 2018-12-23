@@ -204,3 +204,12 @@ a.social:hover {
   }
 
 }
+
+/*Styles for gallery.html page */
+.airvehicle-image:hover {
+  /*Enlarge image when mouse is over image */
+  background-color:black;
+  color: white;
+  transform: scale(1.5) rotate(0deg);
+  padding: 5px 20px 20px 20px;
+}
