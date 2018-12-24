@@ -14,7 +14,7 @@ I am attempting to meet the "Exceeds Expectations" requirements for this project
 
 - Project includes a new profile image:
   - New profile image is 385KB (less than 400KB).
-  - "profile-image" class is still attached to profile <img> tag.
+  - "profile-image" class is still attached to profile img tag.
   - Updated new profile image's alt attribute.
   - Changed multiple CSS style properties.
 
