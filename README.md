@@ -7,7 +7,7 @@ I am attempting to meet the "Exceeds Expectations" requirements for this project
 - Project includes index.html:
   - Changed placeholder text and added additional text.
 
-Project includes styles.css:
+- Project includes styles.css:
   - Changed multiple CSS style properties throughout.
 
 - Created experience.html and gallery.html pages along with links to those pages.
