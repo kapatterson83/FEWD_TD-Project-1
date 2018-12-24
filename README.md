@@ -28,6 +28,6 @@ I am attempting to meet the "Exceeds Expectations" requirements for this project
 - All social media links lead to external websites and deleted unused social media icons.
 
 Validation:
-  - HTML validated for index.html, experience.html, gallery.HTML with no errors.
-  - CSS validated for styles.CSS with accepted exceptions.
+  - HTML validated for index.html, experience.html, gallery.html with no errors.
+  - CSS validated for styles.css with accepted exceptions.
   - I checked the pages in Opera, Chrome, and Internet Explorer - everything appears to work.
