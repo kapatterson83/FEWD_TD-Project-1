@@ -211,12 +211,13 @@ a.social:hover {
 
 /*Styles for gallery.html page */
 .airv-size {
+  /*Set image sizes*/
   width: 100%;
   height: auto;
 }
 
 .airvehicle-image:hover {
-  /*Enlarge image when mouse is over image */
+  /*Enlarge image and caption when mouse hovers over elements*/
   background-color:black;
   color: white;
   transform: scale(1.5);
